@@ -4,4 +4,3 @@ pandas
 numpy
 yfinance
 scikit-learn
-torch
